@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hwork6", "Hwork6\Hwork6.csproj", "{5D39FADD-90C9-4A25-9C68-840BBD6756DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hwork6.2", "Hwork6.2\Hwork6.2.csproj", "{55FC513D-DB11-461D-AC1C-707644BBAE94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D39FADD-90C9-4A25-9C68-840BBD6756DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D39FADD-90C9-4A25-9C68-840BBD6756DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D39FADD-90C9-4A25-9C68-840BBD6756DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D39FADD-90C9-4A25-9C68-840BBD6756DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FC513D-DB11-461D-AC1C-707644BBAE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FC513D-DB11-461D-AC1C-707644BBAE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FC513D-DB11-461D-AC1C-707644BBAE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FC513D-DB11-461D-AC1C-707644BBAE94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1D079B-AD62-4D2D-AF97-58E84A7ADF9B}
+	EndGlobalSection
+EndGlobal
